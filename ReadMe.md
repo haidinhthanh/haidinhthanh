@@ -1,26 +1,153 @@
-# 💫 About Me:
-🔭 I’m currently working on Enterprise AI Agents, Agentic RAG, Multimodal AI, and AI-powered workflow automation<br><br>👯 I’m looking to collaborate on production-grade AI systems, Agentic AI, RAG, VLM, and enterprise automation<br><br>🤝 I’m interested in exchanging ideas on AI Agent architecture, evaluation, governance, and scalable LLM systems<br><br>🌱 I’m currently exploring advanced Agentic AI, Context Engineering, Multi-Agent Systems, and AI Governance<br><br>💬 Ask me about AI Agents, RAG, LLM/VLM, Computer Vision, AI Solution Architecture, and taking AI from PoC to production<br><br>⚡ Fun fact: My AI journey has taken me from telecom chatbots and edge computer vision to industrial AI, private-cloud LLMs, RAG, and enterprise multi-agent systems
+<div align="center">
 
+# Hi, I'm Hai Dinh Thanh 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/inhthanhhai.951480) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hai-dinh-784309168/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haidinh1296@gmail.com) 
+### AI Lead · AI Engineer · AI Solution Architect
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 🧠 Primary Language & AI Focus:
+**Building production AI systems from business problems to architecture, models, agents, and scalable deployment.**
 
-> Most of my current engineering work is Python-first, focused on Deep Learning, LLMs, AI Agents, RAG, Computer Vision, and production AI systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hai%20Dinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hai-dinh-784309168/)
+[![Email](https://img.shields.io/badge/Email-haidinh1296%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haidinh1296@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-haidinhthanh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haidinhthanh)
 
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript%20%2F%20TypeScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-3%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am an **AI Engineer and AI Lead** with experience building AI systems across **LLMs, AI Agents, RAG, Multimodal AI, Computer Vision, and enterprise automation**.
+
+My work focuses on the full AI product lifecycle:
+
+**Business Problem → AI Product Requirement → Solution Architecture → AI Engineering → Evaluation → Production**
+
+- 🧠 Building **Enterprise AI Agents**, Agentic RAG, multi-agent workflows, memory, tool orchestration, and context-aware AI systems.
+- 🔎 Designing **RAG and enterprise knowledge systems** with custom chunking, embedding, reranking, multimodal retrieval, and hallucination-control pipelines.
+- 👁️ Developing **Computer Vision and Multimodal AI** for industrial inspection, object detection, segmentation, keypoint detection, OCR-like visual understanding, audio, image, and video processing.
+- ⚙️ Deploying and optimizing **production LLM/VLM systems** with high-throughput inference, private-cloud deployment, observability, and scalable APIs.
+- 🏗️ Designing **AI solution architecture** and integrations with enterprise systems, internal APIs, legacy platforms, and third-party services.
+- 👥 Leading technical teams across architecture decisions, code review, task planning, quality assurance, and production delivery.
+
+---
+
+## 🚀 Engineering Impact
+
+| Area | Selected Impact |
+|---|---|
+| 👥 **Technical Leadership** | Led an AI engineering team of **30 members** |
+| 🧠 **Enterprise RAG** | Achieved **>98% document retrieval accuracy** for private enterprise knowledge |
+| ⚡ **LLM Serving** | Served an **8B LLM for 500 CCU on 2× RTX 3090 GPUs** using optimized inference |
+| 👁️ **Computer Vision** | Achieved **94% mAP** on an industrial image segmentation system |
+| 🖼️ **Image Restoration** | Achieved **SSIM > 0.96** for SEM/TEM image denoising |
+| 🚄 **Inference Optimization** | Improved chatbot inference speed by **2–3×** |
+
+---
+
+## 🧩 What I Build
+
+| 🤖 Agentic AI | 🧠 RAG & Knowledge Systems | 👁️ Multimodal AI |
+|---|---|---|
+| AI Agents & Multi-Agent Systems | Enterprise RAG | VLM & Vision AI |
+| Tool Calling & Orchestration | Graph RAG | Computer Vision |
+| Short/Long-term Memory | Embedding & Reranking | Audio / Video Understanding |
+| Context Engineering | Knowledge Base Architecture | Detection / Segmentation |
+| MCP / A2A | Retrieval Evaluation | Keypoint & Industrial AI |
+
+| ⚙️ AI Engineering | 🏗️ Solution Architecture | 📦 AI Product |
+|---|---|---|
+| Model Serving & Optimization | Enterprise Integration | AI Use-case Discovery |
+| Batch & Online Inference | System Design | PoC → MVP → Production |
+| API & Backend Services | Security & Governance | Requirement Analysis |
+| Observability | Scalability | Technical Roadmapping |
+
+---
+
+## 🛠️ Core Tech Stack
+
+### AI · Deep Learning · Computer Vision
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### LLM · Agent · RAG
+
+![LLM](https://img.shields.io/badge/LLM-Production%20AI-6E56CF?style=for-the-badge)
+![VLM](https://img.shields.io/badge/VLM-Multimodal%20AI-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Enterprise%20Knowledge-0A7EA4?style=for-the-badge)
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-Knowledge%20Graph-008CC1?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent-5A45FF?style=for-the-badge)
+![SGLang](https://img.shields.io/badge/SGLang-LLM%20Serving-111111?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-High%20Throughput-222222?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Agent%20Tools-4B5563?style=for-the-badge)
+![A2A](https://img.shields.io/badge/A2A-Agent%20Communication-374151?style=for-the-badge)
+
+### Backend · Deployment · Cloud
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BentoML](https://img.shields.io/badge/BentoML-Model%20Serving-000000?style=for-the-badge)
+![NVIDIA Triton](https://img.shields.io/badge/NVIDIA%20Triton-Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+---
+
+## 🐍 Primary Language & Engineering Focus
+
+> **Python is my primary engineering language**, especially for Deep Learning, LLM/VLM systems, AI Agents, RAG, Computer Vision, backend AI services, and model inference.
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript / TypeScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/Golang-2%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Main Python focus:** `PyTorch` · `TensorFlow` · `Hugging Face` · `LLM/VLM` · `RAG` · `AI Agents` · `OpenCV` · `FastAPI`
 
-<sub>Percentages represent my current engineering focus rather than GitHub repository byte statistics.</sub>
+<sub>Percentages represent my current engineering focus, not GitHub repository byte statistics.</sub>
 
 ---
-[![](https://komarev.com/ghpvc/?username=haidinhthanh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 Current Focus
+
+I am currently exploring and building around:
+
+- **Production-grade AI Agents**
+- **Agentic RAG & Enterprise Knowledge Systems**
+- **Context Engineering & Agent Memory**
+- **Multi-Agent Architecture**
+- **AI Agent Evaluation & Governance**
+- **Multimodal LLM/VLM Systems**
+- **Scalable LLM Inference**
+- **Enterprise AI Solution Architecture**
+
+---
+
+## 🎓 Education
+
+- **M.S. in Data Science** — Hanoi University of Science and Technology *(2023 – Present)*
+- **B.E. in Software Engineering** — Hanoi University of Science and Technology
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in **AI Engineering, AI Solution Architecture, AI Product, Agentic AI, RAG, Multimodal AI, and production GenAI systems**.
+
+📫 **Email:** [haidinh1296@gmail.com](mailto:haidinh1296@gmail.com)  
+💼 **LinkedIn:** [Hai Dinh](https://www.linkedin.com/in/hai-dinh-784309168/)  
+💻 **GitHub:** [@haidinhthanh](https://github.com/haidinhthanh)
+
+---
+
+<div align="center">
+
+**Building AI systems that solve real business problems — from PoC to production.**
+
+</div>
